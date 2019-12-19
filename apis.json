@@ -1,0 +1,69 @@
+{
+    "name": "netvibes",
+    "description": "Your Personal Dashboard: See everything that\u2019s happening: News, social media, favorite websites all in one Dashboard",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/443-netvibes.jpg",
+    "tags": [
+        "api provider",
+        "dashboards",
+        "gadgets",
+        "have api",
+        "javascript",
+        "social",
+        "widgets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/netvibes\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "netvibes",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/443-netvibes.jpg",
+            "humanURL": "http:\/\/dev.netvibes.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/netvibes-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.netvibes.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feedproxy.google.com\/NetvibesDevBlog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/netvibes"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/netvibes"
+        },
+        {
+            "type": "Email",
+            "url": "security@netvibes.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/netvibes"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/netvibes"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dev.netvibes.com\/"
+        }
+    ]
+}
